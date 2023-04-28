@@ -1,11 +1,8 @@
 function solution(n) {
-    let r = 0;
     for(let i = 2; i < n; i++) {
         if(n % i == 1) {
-            r = i;
+            return i;
             break;
         }
     }
-    
-    return r;
 }
