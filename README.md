@@ -14,6 +14,7 @@ Programmers 알고리즘의 본인 풀이를 모아놓았습니다.
 - [12937. 짝수와 홀수](https://github.com/Yejin-Han/coding-test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12937.%E2%80%85%EC%A7%9D%EC%88%98%EC%99%80%E2%80%85%ED%99%80%EC%88%98)
 - [12944. 평균 구하기](https://github.com/Yejin-Han/coding-test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12944.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 - [12948. 핸드폰 번호 가리기](https://github.com/Yejin-Han/coding-test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12948.%E2%80%85%ED%95%B8%EB%93%9C%ED%8F%B0%E2%80%85%EB%B2%88%ED%98%B8%E2%80%85%EA%B0%80%EB%A6%AC%EA%B8%B0)
+- [12977. 소수 만들기](https://github.com/Yejin-Han/coding-test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12977.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [12982. 예산](https://github.com/Yejin-Han/coding-test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12982.%E2%80%85%EC%98%88%EC%82%B0)
 - [17681. [ 1차 ] 비밀지도](https://github.com/Yejin-Han/coding-test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/17681.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
 - [68935. 3진법 뒤집기](https://github.com/Yejin-Han/coding-test/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)
