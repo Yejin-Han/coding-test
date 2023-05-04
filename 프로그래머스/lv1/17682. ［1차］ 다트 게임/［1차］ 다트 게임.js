@@ -3,7 +3,7 @@ function solution(dartResult) {
     let answer = [];
     
     for(let i = 0; i < dartResult.length; i++) {
-        if(dartResult[i]*1 >= 0 && dartResult[i]*1 <= 9) {
+        if(dartResult[i]*1 >= 0 && dartResult[i]*1 <= 9) {  //!isNaN(dartResult[i]) 으로 대체 가능
             if(dartResult[i]*1 == 1 && dartResult[i+1]*1 == 0) {
                 score = 10;
                 i++;
