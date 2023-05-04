@@ -21,7 +21,12 @@ function solution(N, stages) {
     }
     
     data.sort((a, b) => b.failureRate - a.failureRate);
-    data.map((key) => answer.push(key.stage));
+    data.map((key) => answer.push(key.stage)); //굳이 answer에 push해서 담을 필요 없이 그냥 => key.stage 했으면 아마 됐을 것이다
     
     return answer;
 }
+
+/*
+이중 for문을 돌아서 그런지 성능이 썩 구림.. 350ms 넘는 케이스가 몇 개 존재
+배열 안에 객체로 push하는 시도를 해 봄.
+*/
