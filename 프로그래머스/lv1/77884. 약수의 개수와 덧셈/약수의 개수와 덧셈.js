@@ -8,7 +8,7 @@ function solution(left, right) {
         }
         !(count % 2) ? sum += i : sum -= i;
         console.log(sum);
-        count = 0;
+        count = 0; // count 선언과 0 초기화를 첫 for문 안에서 시작할 때 했으면 더 깔끔했을 것.
     }
     
     return sum;
