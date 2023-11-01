@@ -7,6 +7,6 @@ class Solution {
         } else if(price >= 100000) {
             price *= 0.95;
         }
-        return price;
+        return (int)price;
     }
 }
